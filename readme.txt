@@ -1,0 +1,1 @@
+Adaugam un rand
